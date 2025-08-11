@@ -70,4 +70,10 @@ All dependencies are installed in Colab. Key libraries:
 MIT License. See `LICENSE` for details.
 
 
+☕ Support My Work
+You can Buy Me a Coffee to support more free AI tutorials and tools. 
+https://buymeacoffee.com/algoforgeau
+
+
+
 
